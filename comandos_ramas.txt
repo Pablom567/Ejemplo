@@ -1,0 +1,15 @@
+Crear ramas nuevas con git:
+
+git branch [nombre_de_rama]
+o
+git checkout -b [nombre_de_rama]
+
+LISTAR RAMAS
+git branch
+
+UNIR RAMAS
+git merge [nombre_de_rama]
+
+COMPARAR RAMAS
+git diff rama_1 rama_2
+
